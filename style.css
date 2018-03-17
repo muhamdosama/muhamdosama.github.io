@@ -1,0 +1,28 @@
+body,
+html {
+  width: 100%;
+  height: 100%; 
+  margin: 0;
+}
+.container-fluid {
+	background-image: url("5.3 header.jpg.jpg");
+	height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headline {
+	margin-top: 16%;
+	color: #fff;
+}
+.btn {
+	margin-top: 15%;
+	background-color: #4e201c;
+	padding-right: 30px;
+	padding-left: 30px;
+	border-radius: 75px;
+	text-transform: uppercase;
+}
+.btn:hover {
+	background-color: #010005;
+}
